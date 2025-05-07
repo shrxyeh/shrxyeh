@@ -87,9 +87,6 @@ I specialize in *identifying vulnerabilities* in Solidity smart contracts using 
 
 ---
 
-## 📈 Contribution Graph
-![GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=shrxyeh&theme=react-dark)
-
 ---
 
 ## 🔗 Connect with Me
