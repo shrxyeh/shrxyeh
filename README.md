@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion for building decentralized applications (dApps) and smart contracts. My expertise spans multiple blockchain programming languages and security tools, enabling me to create scalable, secure, and efficient solutions.
 
-- 🔭 I’m currently working on OpenCerv Ai Blockchain Project.
 - 🌱 I’m exploring advanced concepts in *zero-knowledge proofs, **MEV (Maximal Extractable Value), and **blockchain interoperability*.
 - 👯 I’m looking to collaborate on innovative *DeFi, L2 Scaling, and AI-Blockchain hybrid* projects.
 - 💬 Ask me about *blockchain development, smart contract security, and decentralized finance (DeFi)*.
