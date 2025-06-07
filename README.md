@@ -80,11 +80,21 @@ I specialize in *identifying vulnerabilities* in Solidity smart contracts using 
 ---
 
 
-## 📊 GitHub Stats
-[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shrxyeh?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrxyeh&layout=compact&theme=radical)
+
+### 📊 GitHub Stats
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrxyeh&show_icons=true&theme=radical&hide_border=true)
 
 ---
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=shrxyeh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📘 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrxyeh&layout=compact&theme=radical&hide_border=true)
+
+
 
 ---
 
