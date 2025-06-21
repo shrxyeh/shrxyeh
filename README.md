@@ -15,8 +15,6 @@ I'm a dedicated Blockchain Developer and a Secuirty Researcher with a passion fo
 ### *Languages*
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-FFFFFF?style=for-the-badge&logo=cairo&logoColor=black)
-![Move](https://img.shields.io/badge/Move-4A90E2?style=for-the-badge&logo=move&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
